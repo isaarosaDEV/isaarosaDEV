@@ -6,14 +6,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
@@ -21,6 +13,14 @@
 <br clear="both">
 
 <p data-importer="text" align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning data engineering<br>🎯 Goals: work as data engineering in some big interprise<br>🎲 Fun fact: just 19 years</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isaarosaDEV/isaarosaDEV/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
 
