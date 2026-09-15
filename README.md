@@ -8,8 +8,6 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
-
 <br clear="both">
 
 <p data-importer="text" align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning data engineering<br>🎯 Goals: work as data engineering in some big interprise<br>🎲 Fun fact: just 19 years</p>
